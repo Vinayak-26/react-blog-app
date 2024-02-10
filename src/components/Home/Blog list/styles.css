@@ -1,0 +1,6 @@
+.blogList-wrap{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, .5fr));
+    grid-gap: 3rem;
+    margin: 4rem auto 2rem auto;
+}

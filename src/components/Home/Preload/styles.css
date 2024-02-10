@@ -1,0 +1,30 @@
+.preload-wrap{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    transition: left 1s ease-in-out; 
+}
+.preload-video{
+    width: 200px;
+}
+.image-preload img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+} 
+.loading{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.loaded{
+    top: 120px;
+    left: 1.5rem;
+}
+.loaded:hover{
+    transform: scale(1.6);
+}
