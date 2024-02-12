@@ -8,7 +8,7 @@ export const blogList = [
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       authorName: 'John Doe',
       createdAt: 'June 03, 2021',
-      cover: 'public/assets/images/first_one.jpg',
+      cover: 'public/assets/images/firstone.jpg',
       
     },
     {
@@ -21,7 +21,7 @@ export const blogList = [
       authorName: 'John Doe',
       authorAvatar: '/assets/images/author.jpg',
       createdAt: 'June 03, 2021',
-      cover: 'public/assets/images/first_one.jpg',
+      cover: 'public/assets/images/firstone.jpg',
     },
     {
       id: 3,
@@ -33,7 +33,7 @@ export const blogList = [
       authorName: 'John Doe',
       authorAvatar: '/assets/images/author.jpg',
       createdAt: 'June 03, 2021',
-      cover: '/assets/images/first_one.jpg',
+      cover: 'public/assets/images/firstone.jpg',
     },
     {
       id: 4,
@@ -45,7 +45,7 @@ export const blogList = [
       authorName: 'John Doe',
       authorAvatar: '/assets/images/author.jpg',
       createdAt: 'June 03, 2021',
-      cover: '/assets/images/naruto_drawing.png',
+      cover: 'public/assets/images/narutodrawing.png',
     },
     {
       id: 5,
@@ -57,7 +57,7 @@ export const blogList = [
       authorName: 'John Doe',
       authorAvatar: '/assets/images/author.jpg',
       createdAt: 'June 03, 2021',
-      cover: '/assets/images/naruto_drawing.png',
+      cover: 'public/assets/images/narutodrawing.png',
     },
     {
       id: 6,
@@ -69,7 +69,7 @@ export const blogList = [
       authorName: 'John Doe',
       authorAvatar: '/assets/images/author.jpg',
       createdAt: 'June 03, 2021',
-      cover: '/assets/images/naruto_drawing.png',
+      cover: 'public/assets/images/narutodrawing.png',
     },
     {
       id: 7,
@@ -81,6 +81,6 @@ export const blogList = [
       authorName: 'John Doe',
       authorAvatar: '/assets/images/author.jpg',
       createdAt: 'June 03, 2021',
-      cover: '/assets/images/first_one.jpg',
+      cover: 'public/assets/images/firstone.jpg',
     },
   ];

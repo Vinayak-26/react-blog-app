@@ -4,7 +4,7 @@ function EmptyList() {
     return(
     <div className="emptyList-wrap">
         
-        <img src="/assets/images/first_one.jpg" alt="empty" />
+        <img src="public/assets/images/firstone.jpg" alt="empty" />
     </div>
     );
 }

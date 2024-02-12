@@ -14,7 +14,7 @@ function Preload(){
             {isLoading ? (
                 <div className='preload-wrap'> 
                     <video className='preload-video' autoPlay loop muted>
-                        <source src='/assets/first_animation.mp4' type='video/mp4'/>
+                        <source src='public/assets/firstanimation.mp4' type='video/mp4'/>
                     </video>
 
                 </div>
